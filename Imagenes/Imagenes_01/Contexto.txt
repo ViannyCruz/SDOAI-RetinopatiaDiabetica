@@ -1,0 +1,2 @@
+Imágenes_01
+Recopilación de imágenes de diversas categorías, con un total de 5,000 imágenes. Estas imágenes han sido seleccionadas de manera aleatoria, pero respetando la distribución de sus categorías correspondientes. Previamente, todas las imágenes fueron transformadas a un tamaño de 224x224 píxeles. Este conjunto pertenece al dataset "augmented_resized_V2".
