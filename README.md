@@ -1,1 +1,1 @@
-# Sistema de Diagnóstico Oftalmológico Asistido por Inteligencia Artificial para la detección de retinopatía diabética.
+# Sistema de diagnóstico oftalmológico asistido por inteligencia artificial para la detección de retinopatía diabética.
